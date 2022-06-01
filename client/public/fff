@@ -1,0 +1,71 @@
+ {
+      id: 0,
+      tcode: "bg-blue-600",
+      tcodeHover: "hover:bg-blue-700",
+      tcodeActive: "active:bg-blue-800",
+      tcodeText: "text-blue-600",
+      gradient: "from-blue-600 to-violet-600"
+    },
+    {
+      id: 1,
+
+      tcode: "bg-violet-600",
+      tcodeHover: "hover:bg-violet-700",
+      tcodeActive: "active:bg-violet-800",
+      tcodeText: "text-violet-600",
+      gradient: "from-violet-600 to-fuchsia-600"
+    },
+    {
+      id: 2,
+
+      tcode: "bg-fuchsia-600",
+      tcodeHover: "hover:bg-fuchsia-700",
+      tcodeActive: "active:bg-fuchsia-800",
+      tcodeText: "text-fuchsia-600",
+      gradient: "from-fuchsia-600 to-rose-600"
+    },
+    {
+      id: 3,
+
+      tcode: "bg-rose-600",
+      tcodeHover: "hover:bg-rose-700",
+      tcodeActive: "active:bg-rose-800",
+      tcodeText: "text-rose-600",
+      gradient: "from-rose-600 to-amber-600"
+    },
+    {
+      id: 4,
+
+      tcode: "bg-amber-600",
+      tcodeHover: "hover:bg-amber-700",
+      tcodeActive: "active:bg-amber-800",
+      tcodeText: "text-amber-600",
+      gradient: "from-amber-600 to-orange-600"
+    },
+    {
+      id: 5,
+
+      tcode: "bg-green-600",
+      tcodeHover: "hover:bg-green-700",
+      tcodeActive: "active:bg-green-800",
+      tcodeText: "text-green-600",
+      gradient: "from-green-600 to-emerald-600"
+    },
+    {
+      id: 6,
+
+      tcode: "bg-emerald-600",
+      tcodeHover: "hover:bg-emerald-700",
+      tcodeActive: "active:bg-emerald-800",
+      tcodeText: "text-emerald-600",
+      gradient: "from-emerald-600 to-cyan-600"
+    },
+    {
+      id: 7,
+
+      tcode: "bg-cyan-600",
+      tcodeHover: "hover:bg-cyan-700",
+      tcodeActive: "active:bg-cyan-800",
+      tcodeText: "text-cyan-600",
+      gradient: "from-cyan-600 to-blue-600"
+    },
