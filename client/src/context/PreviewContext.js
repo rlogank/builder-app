@@ -16,10 +16,10 @@ export const PreviewProvider = ({ children }) => {
       id: 1,
 
       tcode: "bg-violet-600",
-      tcodeHover: "hover:bg-violet-700",
-      tcodeActive: "active:bg-violet-800",
-      tcodeText: "text-violet-600",
-      gradient: "from-violet-600 to-fuchsia-600",
+      tcodeHover: "hover:bg-violet-100",
+      tcodeActive: "active:bg-violet-100",
+      tcodeText: "text-emerald-100",
+      gradient: "from-violet-400 to-emerald-400",
     },
     {
       id: 2,
